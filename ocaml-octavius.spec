@@ -39,7 +39,7 @@ używających biblioteki octavius.
 
 %package devel
 Summary:	Octavius - ocamldoc comment syntax parser - development part
-Summary(pl.UTF-8):	Octavius - parser składni komentarzy ocamldoc - cześć programistyczna
+Summary(pl.UTF-8):	Octavius - parser składni komentarzy ocamldoc - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
